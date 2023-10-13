@@ -1,0 +1,12 @@
+C:\Users\BUKET\source\repos\LibraryApp.Data\bin\Debug\net5.0\LibraryApp.Data.deps.json
+C:\Users\BUKET\source\repos\LibraryApp.Data\bin\Debug\net5.0\LibraryApp.Data.dll
+C:\Users\BUKET\source\repos\LibraryApp.Data\bin\Debug\net5.0\ref\LibraryApp.Data.dll
+C:\Users\BUKET\source\repos\LibraryApp.Data\bin\Debug\net5.0\LibraryApp.Data.pdb
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.csproj.AssemblyReference.cache
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.dll
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\ref\LibraryApp.Data.dll
+C:\Users\BUKET\source\repos\LibraryApp.Data\obj\Debug\net5.0\LibraryApp.Data.pdb

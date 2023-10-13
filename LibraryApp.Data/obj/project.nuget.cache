@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMps41DSHY2wVsuaFVYSg0tCG6cuS74746Uhbq+5kML/ZrkCVW7jIuGhka6Rbn4n0iG2nc4ONO+OFTocJ+4EZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BUKET\\source\\repos\\LibraryApplication\\LibraryApp.Data\\LibraryApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BUKET\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\BUKET\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\BUKET\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

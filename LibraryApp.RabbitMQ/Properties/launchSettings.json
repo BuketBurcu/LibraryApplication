@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LibraryApp.RabbitMQ": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "RABBIT_URI": "amqp://root:root@rabbit1:5672"
+      }
+    }
+  }
+}

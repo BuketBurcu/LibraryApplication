@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LibraryApp.DataAccess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MONGO_URI": "mongodb://root:root@127.0.0.1:11001",
+        "MONGO_DB": "Library"
+      }
+    }
+  }
+}

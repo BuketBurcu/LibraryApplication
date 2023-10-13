@@ -1,0 +1,17 @@
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.RabbitMQ.deps.json
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.RabbitMQ.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\ref\LibraryApp.RabbitMQ.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.RabbitMQ.pdb
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.Data.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.DataAccess.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.DataAccess.pdb
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\bin\Debug\net5.0\LibraryApp.Data.pdb
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.csproj.CopyComplete
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\ref\LibraryApp.RabbitMQ.dll
+C:\Users\BUKET\source\repos\LibraryApp.RabbitMQ\obj\Debug\net5.0\LibraryApp.RabbitMQ.pdb
